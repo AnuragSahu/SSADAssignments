@@ -43,7 +43,7 @@ def main():
         gameWin = 0
         way=''
         while(life>0 and gameWin==0):
-            if(tim<600):  #Time before mario faces enemy
+            if(tim<60):  #Time before mario faces enemy
                 finMatrix, jp, life,score = cont.controls(way,jp,life,score)  # Generating scenes
                 if(jp!=5):
                     jp-=1
