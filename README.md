@@ -6,7 +6,7 @@ Secound Commit Mario runs in both Directions
 
 Final Commit Complete
 
-#Assignment 1
+## Assignment 1
 
 To start the game <br>
 open Terminal <br>
