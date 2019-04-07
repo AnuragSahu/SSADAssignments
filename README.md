@@ -23,22 +23,22 @@ Code should exhibit OO concepts (40 marks): <br>
 - Abstraction: Intuitive functionality like move(), attack(), etc, stowing away inner details from the end user. <br>
 
 Movement (10 marks): <br>
-– WAD (directional - left, right, jump) <br>
-– Jump on springs or bridges and have different characteristics. <br>
+- WAD (directional - left, right, jump) <br>
+- Jump on springs or bridges and have different characteristics. <br>
 
 Obstacles (30 marks): <br>
-– Enemies will move left, right automatically <br>
-– Additionally, you can have enemies with different speed, different behaviour (chase the player, etc). <br>
-– Boss enemies with extra lives and additional powerups <br>
+- Enemies will move left, right automatically <br>
+- Additionally, you can have enemies with different speed, different behaviour (chase the player, etc). <br>
+- Boss enemies with extra lives and additional powerups <br>
 
 Score (10 marks): <br>
-– Score for duration of the game <br>
-– Bonus score for coins and gems collected <br>
-– Score increments for killing enemies and boss <br>
-– Display the score and life on the screen <br>
+- Score for duration of the game <br>
+- Bonus score for coins and gems collected <br>
+- Score increments for killing enemies and boss <br>
+- Display the score and life on the screen <br>
 
 Background & Scenery (10 marks): <br>
-– when moving out of the window, change the scenery <br>
+- when moving out of the window, change the scenery <br>
 
 Bonus (20 marks) <br> 
 You will be judged for additional marks if you have implemented the following: <br>
