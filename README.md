@@ -10,10 +10,11 @@ Final Commit Complete
 
 To start the game <br>
 open Terminal <br>
-run pip install -r /Assignment1/requirements.txt <br>
-run cd Assignment1/ <br>
-run Python3 game.py <br>
-
+```sh
+pip install -r /Assignment1/requirements.txt
+cd Assignment1/
+python3 game.py
+```
 Met following Requirements:- <br>
 Code should exhibit OO concepts (40 marks): <br>
 – Inheritance: You could have one person class and have both the enemies and player inherit from it. <br>
