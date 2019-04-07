@@ -17,10 +17,10 @@ python3 game.py
 ```
 Met following Requirements:- <br>
 Code should exhibit OO concepts (40 marks): <br>
-– Inheritance: You could have one person class and have both the enemies and player inherit from it. <br>
-– Polymorphism: Have one obstacle class and override various characteristics to exhibit different properties. <br>
-– Encapsulation: Class and object based approach for all the functionality implemented. <br>
-– Abstraction: Intuitive functionality like move(), attack(), etc, stowing away inner details from the end user. <br>
+- Inheritance: You could have one person class and have both the enemies and player inherit from it. <br>
+- Polymorphism: Have one obstacle class and override various characteristics to exhibit different properties. <br>
+- Encapsulation: Class and object based approach for all the functionality implemented. <br>
+- Abstraction: Intuitive functionality like move(), attack(), etc, stowing away inner details from the end user. <br>
 
 Movement (10 marks): <br>
 – WAD (directional - left, right, jump) <br>
